@@ -5,7 +5,32 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+scikit-learn
+[https://github.com/scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+matplotlib
+[https://github.com/matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
+License: Matplotlib
+[https://matplotlib.org/stable/users/project/license.html](https://matplotlib.org/stable/users/project/license.html)
+--------------------------------------------------------------------------------------------------------------------
+
+pandas
+[https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+License: BSD-2-Clause AND BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+tensorflow
+[https://github.com/tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+------------------------------------------------------------------
+
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
